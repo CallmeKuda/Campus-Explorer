@@ -1,0 +1,28 @@
+{
+    "expo": {
+        "name": "campus-app",
+        "slug": "campus-app",
+        "version": "1.0.0",
+        "orientation": "portrait",
+        "icon": "./assets/images/icon.png",
+        "userInterfaceStyle": "light",
+        "splash": {
+            "image": "./assets/images/hero.gif",
+            "resizeMode": "contain",
+            "backgroundColor": "#ffffff"
+        },
+        "assetBundlePatterns": ["**/*"],
+        "ios": {
+            "supportsTablet": true
+        },
+        "android": {
+            "adaptiveIcon": {
+                "foregroundImage": "./assets/images/adaptive-icon.png",
+                "backgroundColor": "#ffffff"
+            }
+        },
+        "web": {
+            "favicon": "./assets/images/favicon.png"
+        }
+    }
+}
