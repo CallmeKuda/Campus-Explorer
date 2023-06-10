@@ -130,7 +130,7 @@ const Create = () => {
         onPress={handleDestinationSelected}
         fetchDetails
         query={{
-          key: 'AIzaSyB-bFAmBTxmxw4YMx7uKK3KDNfXTeLh35w', // API key for Google Places
+          key: '', // API key for Google Places
           language: 'en',
         }}
         styles={{
